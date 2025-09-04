@@ -1,15 +1,17 @@
 {
-  "iri": "a63e23c0-5f17-474c-827d-f152ad897d43",
+  "iri": "74b339de-7a8b-4fb9-b027-8386e757414b",
   "types": [
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {},
+    "label": {
+      "cs": "ssubdir"
+    },
     "description": {}
   },
   "metadata": {
-    "creationDate": "2025-09-03T08:16:54.307Z",
-    "modificationDate": "2025-09-04T07:24:56.697Z"
+    "creationDate": "2025-09-04T07:24:47.590Z",
+    "modificationDate": "2025-09-04T07:24:56.664Z"
   },
   "_version": 1,
   "_exportVersion": 1,
